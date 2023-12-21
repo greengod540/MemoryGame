@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Board.cpp
+C:\Users\User\source\repos\SDL-Project\First SDL SetUp\Board.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SDL-Project\First SDL SetUp\Board.cpp(196,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SDL-Project\First SDL SetUp\Board.cpp(265,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SDL-Project\First SDL SetUp\Board.cpp(384,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\SDL-Project\First SDL SetUp\Board.cpp(396,20): warning C4018: '<': signed/unsigned mismatch
+  First SDL SetUp.vcxproj -> C:\Users\User\source\repos\SDL-Project\run\First SDL SetUp.exe

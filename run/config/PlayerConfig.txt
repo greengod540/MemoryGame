@@ -1,0 +1,6 @@
+img_Name: skeleton_idle.bmp
+dst_Rect: 0 0 50 50
+srcRect: 0 0 50 50
+Speed: 5
+imageValues: 0 0 864 32
+
